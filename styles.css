@@ -2,6 +2,6 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-gap:200px;
+	
 	grid-template-columns:repeat(2,200px);
 }
